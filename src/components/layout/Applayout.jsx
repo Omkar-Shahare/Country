@@ -1,5 +1,5 @@
-import {Headers} from "../ui/Headers.JSX";
-import {Footers} from "../ui/Footers.JSX";
+import {Headers} from "../ui/Headers.jsx";
+import {Footers} from "../ui/Footers.jsx";
 import {Outlet} from "react-router-dom";
 
 
